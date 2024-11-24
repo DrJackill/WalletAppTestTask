@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0B19jgkA+U2859bXcte/HsQAVzKPq1hZhSjv3aGdHZo=",
+  "Source": "WalletAppTestTask",
+  "BasePath": "_content/WalletAppTestTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
